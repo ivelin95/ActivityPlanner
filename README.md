@@ -1,5 +1,4 @@
-# [Starter] Udemy Project Vue Activity (Project 2)
-## This is what you need when starting Section 3! (:
+
 
 ## Project setup
 ```
@@ -16,15 +15,4 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
